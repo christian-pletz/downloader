@@ -9,7 +9,7 @@
             "email": "info@christian-pletz.de"
         }
     ],
-    "homepage": "https://www.christian-pletz.de",
+    "homepage": "https://atlassian.christian-pletz.de/bitbucket/projects/CP/repos/downloader/browse",
     "type": "library",
     "require": {
 		"php": ">=7.0"
